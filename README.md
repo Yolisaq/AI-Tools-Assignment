@@ -2,8 +2,8 @@
 
 **AI Tools Assignment – Week 3**
 **Course:** AI for Software Engineering
-**Group Members:** [Insert Names]
-**Date:** [Insert Date]
+**Group Members:** Yolisa Qadi
+**Date:** 2025
 
 ---
 
