@@ -150,11 +150,11 @@ Include screenshots of:
 
 | Member   | Role              | Contribution                            |
 | -------- | ----------------- | --------------------------------------- |
-| [Yolisa Qadi] | Project Lead      | Coordination, TensorFlow Implementation |
-| [Yolisa Qadi] | ML Engineer       | Scikit-learn Model                      |
-| [Yolisa Qadi] | NLP Specialist    | spaCy & Sentiment Analysis              |
-| [Yolisa Qadi] | DevOps/Deployment | Streamlit App & GitHub Setup            |
-| [Yolisa Qadi] | Documentation     | Report Writing & Video Presentation     |
+| Yolisa Qadi | Project Lead      | Coordination, TensorFlow Implementation |
+| Yolisa Qadi | ML Engineer       | Scikit-learn Model                      |
+| Yolisa Qadi | NLP Specialist    | spaCy & Sentiment Analysis              |
+| Yolisa Qadi | DevOps/Deployment | Streamlit App & GitHub Setup            |
+| Yolisa Qadi | Documentation     | Report Writing & Video Presentation     |
 
 ---
 
